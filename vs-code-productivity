@@ -1,0 +1,31 @@
+jupyter keymap
+jupyter notebook renderers
+live server
+markdown preview enhanced
+material icon theme
+material theme
+material theme icon
+power mode
+prettier
+pylance
+python
+todo tree
+beautify
+bracket pair colorizer
+code spell checker
+code-python-isort
+community material theme
+Djaneiro - Djanero Snippets
+Django
+Django Template
+DotENV
+EditorConfig for VS Code
+highlight matching tag
+
+
+ES7 React/Redux/GraphQL/React-Native Snippet
+- "rafce"
+settings.json
+"emmet.includeLanguages": {
+  "javascript": "javascriptreact"
+}
