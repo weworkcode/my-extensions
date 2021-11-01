@@ -1,0 +1,13 @@
+{
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Material Theme Ocean",
+    "workbench.iconTheme": "material-icon-theme",
+    "powermode.presets": "flames",
+    "powermode.enabled": true,
+    "powermode.explosionSize": 2,
+    "workbench.startupEditor": "none",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+}
